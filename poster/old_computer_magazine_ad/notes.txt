@@ -1,0 +1,11 @@
+Visual Style:
+- Typically has a single image front and center, usually the product but sometimes something random to grab attention
+- A small tagline or hook in large serif font (might have some subtext too), typically related to the image
+- Smaller text segmented into 2-3 columns towards the lower half of the page
+- Tycially black text and light background, though this can also be inverted
+
+Text Style:
+- Does not hold back on the technicals, assumes you are into computers (makes sense since these ads are for computer magazines and business catalogs)
+- Drops as many stats and features as possible, and attempts to comstruct a weak narrative while reveling them
+- Speaks as if they have the reader's unconditional trust; will make grand claims about how they sweep the competition
+- Contact information in the final section of the text
